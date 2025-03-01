@@ -105,8 +105,7 @@ where order_date between "2022-01-01" and "2022-12-31";
 select customer_id as ID, city as location
 from supermarket_sales;
 
-							  #Joins
-#18.Get a list of all orders with customer names and product details by joining Customers, Orders, and Products tables.#////
+
 
 
 
